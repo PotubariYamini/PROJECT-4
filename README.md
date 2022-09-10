@@ -7,7 +7,7 @@ Fetal health-MODEL TUNING
 * Fetals are delivered from the womens womb and before that during the pregnancy the information about the fetus is tough to get. We can only get the information that there is a fetus and it would be delivered. So, as the information is not readily available the obstetricians who check the condition of the fetal rely on the indirect information. 
 * One of the most dependent information is about the fetal heart rate and there is a restriction of electronic fetal heart monitoring that this variation is hindering the records of the accurate communication and time management.There is an another component known as the cardiotocogram which contains distinct signals and is mainly used for recordings of the fetal heart rate which is the main way through which the obstetricians rely on the information. 
 
-2.3. Requirements:
+2. Requirements:
 
 * Python 
 * jupyter notebook.
